@@ -60,14 +60,11 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mayurpatil05&show_icons=true&theme=radical&count_private=true" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayurpatil05&layout=compact&theme=radical" alt="languages" />
-</p>
+![Mayur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mayurpatil05&show_icons=true&theme=radical&count_private=true)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mayurpatil05&theme=radical" alt="streak" />
-</p>
+![Mayur's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mayurpatil05&layout=compact&theme=radical)
+
+![Mayur's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mayurpatil05&theme=radical)
 
 ---
 
