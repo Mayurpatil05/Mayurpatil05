@@ -1,76 +1,15 @@
-<h1 align="center">Hi there, I'm <a href="https://github.com/Mayurpatil05" target="_blank">Mayur Patil</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+# 💫 About Me:
+AI & Data Science graduate and Infosys AI Intern skilled in Python, SQL, machine learning, and data analytics. Experienced in end-to-end data pipelines, EDA, ML model development, and deployment using Flask and Docker. Passionate about building data-driven and scalable AI solutions.
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2496ED&center=true&vCenter=true&width=435&lines=AI+Intern+at+Infosys;Data+Analyst;Python+%26+SQL+Developer;Open+to+Data+Science+Roles" alt="Typing SVG" />
-</p>
 
-<p align="center">
-  <em>"Analyzing large-scale transactional data to drive process efficiency."</em>
-</p>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mayur_1130_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mayurpatil1130) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/MayurPatil1130) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mayurpatil11801@gmail.com) 
 
----
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=black)  ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=flat&logo=gunicorn&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Mayurpatil05&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Mayurpatil05&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mayurpatil05&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 👨‍💻 About Me
-
-- 🔭 I’m currently working as an **AI Intern at Infosys**, leveraging **Linear Algebra & Statistics** to optimize ML algorithms.
-- 💼 Previously, I was a **Data Analyst Intern** at Analytics Career Connect, where I executed end-to-end analysis projects.
-- 🎓 I hold a **B.Tech in Artificial Intelligence and Data Science** (2024) from Sharad Institute of Technology.
-- 💻 I specialize in building **Data Pipelines**, **ETL processes**, and **Predictive Models** using Python.
-- 🚀 I’m passionate about applying **Machine Learning** and **Process Analytics** to solve complex operational challenges.
-
----
-
-### 🛠️ Languages and Tools
-
-<p align="left"> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/> 
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
-  </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/> 
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> 
-  </a>
-  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="powerbi" width="40" height="40"/> 
-  </a>
-</p>
-
----
-
-### 🚀 Featured Projects
-
-| Project | Tech Stack | Description |
-| :--- | :--- | :--- |
-| **Boston House Price Predictor** | Python, Flask, Docker | End-to-end ML app with **R2 score of 0.88**. Containerized with Docker and deployed via Flask REST API. |
-| **Zomato Data Analysis** | Pandas, Seaborn, Matplotlib | Analyzed **85,000+ records**, improving data quality by 12% and identifying key customer behavior trends. |
-| **Transactional Data Pipelines** | Python, SQL | Designed robust pipelines for cleaning and anomaly detection on large-scale datasets. |
-
----
-
-### 📊 GitHub Stats
-
-![Mayur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mayurpatil05&show_icons=true&theme=radical&count_private=true)
-
-![Mayur's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mayurpatil05&layout=compact&theme=radical)
-
-![Mayur's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mayurpatil05&theme=radical)
-
----
-
-### 📫 Connect with Me
-
-<p align="left">
-<a href="https://linkedin.com/in/mayurpatil1130" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="linkedin" height="30" width="40" /></a>
-<a href="mailto:mayurpatill1801@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="gmail" height="30" width="40" /></a>
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
